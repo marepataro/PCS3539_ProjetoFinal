@@ -1,0 +1,36 @@
+[gd_scene format=3 uid="uid://c3sahkdbeshfh"]
+
+[ext_resource type="Script" uid="uid://d4mp6tqkrd0ci" path="res://scenes/tela_de_objetivo.gd" id="1_1foh5"]
+[ext_resource type="Texture2D" uid="uid://dp324uamcw5tx" path="res://assets/Tela objetivo.png" id="2_pjs3b"]
+[ext_resource type="Texture2D" uid="uid://cfujo121kdmwh" path="res://assets/Tela objetivo vazio.png" id="3_0nroh"]
+[ext_resource type="Texture2D" uid="uid://dte7fvaq4j2tn" path="res://assets/Botão ache a chave do carro.png" id="4_5qao8"]
+
+[sub_resource type="Theme" id="Theme_1foh5"]
+default_font_size = 30
+
+[node name="Objetivo" type="Node2D" unique_id=613183958]
+script = ExtResource("1_1foh5")
+
+[node name="TextureRect" type="TextureRect" parent="." unique_id=390711438]
+visible = false
+offset_right = 1160.0
+offset_bottom = 645.0
+scale = Vector2(0.97, 0.97)
+texture = ExtResource("2_pjs3b")
+
+[node name="TextureRect2" type="TextureRect" parent="." unique_id=1962579133]
+offset_right = 40.0
+offset_bottom = 40.0
+scale = Vector2(0.97, 0.97)
+texture = ExtResource("3_0nroh")
+
+[node name="Continuar_objetivo" type="Button" parent="." unique_id=621824469]
+offset_left = 245.0
+offset_top = 282.0
+offset_right = 912.0
+offset_bottom = 414.0
+theme = SubResource("Theme_1foh5")
+icon = ExtResource("4_5qao8")
+flat = true
+
+[connection signal="pressed" from="Continuar_objetivo" to="." method="_on_continuar_objetivo_pressed"]

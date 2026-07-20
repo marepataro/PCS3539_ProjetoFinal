@@ -1,0 +1,24 @@
+[gd_scene format=3 uid="uid://bb3fixmdclvik"]
+
+[ext_resource type="Texture2D" uid="uid://dmt3sgb31t2e8" path="res://assets/Tela créditos.png" id="1_g7jlk"]
+[ext_resource type="Script" uid="uid://klihikc2nghw" path="res://scenes/tela_creditos.gd" id="1_xi7x5"]
+[ext_resource type="Texture2D" uid="uid://52t3tsejcctm" path="res://assets/Botão continuar.png" id="3_dxmpi"]
+
+[node name="Tela creditos" type="Node2D" unique_id=413513951]
+script = ExtResource("1_xi7x5")
+
+[node name="Tela créditos" type="TextureRect" parent="." unique_id=54917101]
+offset_right = 40.0
+offset_bottom = 40.0
+scale = Vector2(0.97, 0.97)
+texture = ExtResource("1_g7jlk")
+
+[node name="continuar_creditos" type="Button" parent="." unique_id=523143322]
+offset_left = 267.0
+offset_top = 500.0
+offset_right = 484.0
+offset_bottom = 591.0
+icon = ExtResource("3_dxmpi")
+flat = true
+
+[connection signal="pressed" from="continuar_creditos" to="." method="_on_continuar_creditos_pressed"]

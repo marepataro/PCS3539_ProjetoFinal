@@ -1,0 +1,31 @@
+[gd_scene format=3 uid="uid://baogdbhcgo8e3"]
+
+[ext_resource type="Script" uid="uid://c3lfh38j864vp" path="res://scenes/tela_como_jogar_2.gd" id="1_27l5n"]
+[ext_resource type="Texture2D" uid="uid://cf4xf8flnsn8g" path="res://assets/Tela como jogar 2.png" id="1_u2veo"]
+[ext_resource type="Texture2D" uid="uid://52t3tsejcctm" path="res://assets/Botão continuar.png" id="2_27l5n"]
+
+[node name="Tela como jogar 2" type="Node2D" unique_id=1083872950]
+script = ExtResource("1_27l5n")
+
+[node name="TextureRect" type="TextureRect" parent="." unique_id=1743873483]
+offset_left = -54.000004
+offset_top = -72.91
+offset_right = 1133.0
+offset_bottom = 595.08997
+scale = Vector2(1.08, 1.08)
+texture = ExtResource("1_u2veo")
+
+[node name="continuar_como_jogar_2" type="Button" parent="." unique_id=1585016737]
+anchors_preset = 1
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = 492.0
+offset_top = 551.0
+offset_right = 709.0
+offset_bottom = 642.0
+grow_horizontal = 0
+size_flags_vertical = 8
+icon = ExtResource("2_27l5n")
+flat = true
+
+[connection signal="pressed" from="continuar_como_jogar_2" to="." method="_on_continuar_como_jogar_2_pressed"]

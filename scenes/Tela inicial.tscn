@@ -1,0 +1,68 @@
+[gd_scene format=3 uid="uid://cfpm55tvude8c"]
+
+[ext_resource type="Script" uid="uid://dwi84hwuwalok" path="res://scenes/Tela_inicial.gd" id="1_a7352"]
+[ext_resource type="Texture2D" uid="uid://de5jopm6o16r0" path="res://assets/Tela inicial.png" id="2_w1dbf"]
+[ext_resource type="Texture2D" uid="uid://bcosoa7trmk88" path="res://assets/Botão começar.png" id="3_0kadd"]
+[ext_resource type="Texture2D" uid="uid://o88h5oc7aqdm" path="res://assets/tela inicial vazia.png" id="3_nxkga"]
+[ext_resource type="Texture2D" uid="uid://idb46a68d66o" path="res://assets/Botão como jogar.png" id="4_nxkga"]
+[ext_resource type="Texture2D" uid="uid://cuojaem2n1xt5" path="res://assets/Botão créditos.png" id="5_gretf"]
+
+[sub_resource type="Theme" id="Theme_6jsh8"]
+default_font_size = 30
+
+[node name="Tela inicial" type="Node2D" unique_id=1830941964]
+script = ExtResource("1_a7352")
+
+[node name="Tela_inicial" type="TextureRect" parent="." unique_id=1061895904]
+offset_right = 1582.0
+offset_bottom = 890.0
+scale = Vector2(0.729, 0.729)
+size_flags_horizontal = 4
+texture = ExtResource("2_w1dbf")
+expand_mode = 2
+
+[node name="Tela_inicial_vazia" type="TextureRect" parent="." unique_id=544459491]
+offset_right = 1582.0
+offset_bottom = 890.0
+scale = Vector2(0.728, 0.728)
+texture = ExtResource("3_nxkga")
+
+[node name="botao_começar" type="Button" parent="." unique_id=1058902215]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = 243.99998
+offset_top = 482.99997
+offset_right = 530.00006
+offset_bottom = 601.0
+grow_horizontal = 2
+grow_vertical = 2
+scale = Vector2(0.72, 0.72)
+pivot_offset = Vector2(0.16666794, 0.333313)
+theme = SubResource("Theme_6jsh8")
+icon = ExtResource("3_0kadd")
+flat = true
+
+[node name="botao_como_jogar" type="Button" parent="." unique_id=1796047151]
+offset_left = 483.0
+offset_top = 483.0
+offset_right = 759.0
+offset_bottom = 599.0
+scale = Vector2(0.72, 0.72)
+icon = ExtResource("4_nxkga")
+flat = true
+
+[node name="botao_creditos" type="Button" parent="." unique_id=2016995020]
+offset_left = 715.0
+offset_top = 483.0
+offset_right = 991.0
+offset_bottom = 599.0
+scale = Vector2(0.72, 0.72)
+icon = ExtResource("5_gretf")
+flat = true
+
+[connection signal="pressed" from="botao_começar" to="." method="_on_botao_começar_pressed"]
+[connection signal="pressed" from="botao_como_jogar" to="." method="_on_botao_como_jogar_pressed"]
+[connection signal="pressed" from="botao_creditos" to="." method="_on_botao_creditos_pressed"]
