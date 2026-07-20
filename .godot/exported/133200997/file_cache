@@ -1,0 +1,60 @@
+res://addons/dialogue_nodes/editor/Graph.tscn::f8beb3a0c01d680922d92fe0b3277f56::1782070687::res://.godot/exported/133200997/export-29df7c28ca6eb8344c3a112f147dd0a7-Graph.scn
+res://addons/dialogue_nodes/editor/VariableItem.tscn::2c7cbd109c47dd68de25f25345a0a1de::1782070687::res://.godot/exported/133200997/export-0d02e8645666e74bf9c82a02e073589c-VariableItem.scn
+res://addons/dialogue_nodes/editor/Variables.tscn::eeeda67ebe0cbe3e30d19c2dbead8eca::1782070687::res://.godot/exported/133200997/export-0b27b1d2d12bf3c9ce1d71f660a49e88-Variables.scn
+res://addons/dialogue_nodes/nodes/sub_nodes/ConditionItem.tscn::6ad1417cb9222d78b244a916e86e0c49::1782070688::res://.godot/exported/133200997/export-e920452892d96c3794c383f28ff43e3c-ConditionItem.scn
+res://addons/dialogue_nodes/nodes/sub_nodes/ConditionList.tscn::c2f7834b0663000ba0f37ac652f5352a::1782070688::res://.godot/exported/133200997/export-03aca663cd4816b2f23f12420ec7714e-ConditionList.scn
+res://addons/dialogue_nodes/nodes/sub_nodes/DialogueNodeOption.tscn::75b85d85983260bc805f25d69c1e1ae2::1782070688::res://.godot/exported/133200997/export-8bacdd7d4e5392dfc6fafb36d05c1b7a-DialogueNodeOption.scn
+res://addons/dialogue_nodes/nodes/sub_nodes/ForkItem.tscn::20e2d7a582a657fed9bc46883a7ce89c::1782070688::res://.godot/exported/133200997/export-c3f0caa6c9093f472655d44e71c2d9ea-ForkItem.scn
+res://addons/dialogue_nodes/nodes/CommentNode.tscn::e72b05c9070607db54f2ae7ff4dc6385::1782070688::res://.godot/exported/133200997/export-d38240610576c9cd9bc6cab6ba4bf378-CommentNode.scn
+res://addons/dialogue_nodes/nodes/ConditionNode.tscn::1a02493568d37d5a9aba4db749e68cb0::1782070688::res://.godot/exported/133200997/export-25b1163ba9c799edf261541e9ccaf08a-ConditionNode.scn
+res://addons/dialogue_nodes/nodes/DialogueNode.tscn::af642f2f5490340846495bfa904be236::1782070688::res://.godot/exported/133200997/export-a36a857d8d280e04c755de7840fec22c-DialogueNode.scn
+res://addons/dialogue_nodes/nodes/ForkNode.tscn::4a77c5e7690c3948fafe579e86a0a8cf::1782070688::res://.godot/exported/133200997/export-dcc2c0382e68d0e410237cf889dab71d-ForkNode.scn
+res://addons/dialogue_nodes/nodes/GraphFrame.tscn::0723134304e410b6ffc207543d6a8938::1782070688::res://.godot/exported/133200997/export-b106f6a4c67928b84597ad3f76e50748-GraphFrame.scn
+res://addons/dialogue_nodes/nodes/NestNode.tscn::3e568152d6297f308bb7b4126528f59a::1782070688::res://.godot/exported/133200997/export-f3eff0b91a53caf27927e958b013a192-NestNode.scn
+res://addons/dialogue_nodes/nodes/SetNode.tscn::b46462ccbfdb7fb532b794b6d4ef4382::1782070688::res://.godot/exported/133200997/export-73c44811b9a552d37a9d268c3c47050a-SetNode.scn
+res://addons/dialogue_nodes/nodes/SignalNode.tscn::c974a4cc534e3662d672865abc468db3::1782070688::res://.godot/exported/133200997/export-b94ba874f9f28c506ae13033515dd139-SignalNode.scn
+res://addons/dialogue_nodes/nodes/StartNode.tscn::62a33ec4768ef6401754189a6e992bac::1782070688::res://.godot/exported/133200997/export-7726a8a8a765b677db338d28364c68a0-StartNode.scn
+res://addons/dialogue_nodes/Editor.tscn::7f1232ea77a8921325762b8299aeab6c::1782070687::res://.godot/exported/133200997/export-a87956dde8428663623f3a85cd2f034f-Editor.scn
+res://addons/proto_controller/proto_controller.tscn::9a76593b793be461cc34d1fa2bd7770e::1784509344::res://.godot/exported/133200997/export-0a12e7b670baa788c9fd3506d9d312e2-proto_controller.scn
+res://assets/Cor teto.tres::30d3d5383bf28662ad44de08b557344f::1784509344::res://.godot/exported/133200997/export-8b73341bafeda36dcda03e97465808b3-Cor teto.res
+res://assets/Parede quarto.tres::137bdcda481a50a6e8118fd5f666ef16::1784509344::res://.godot/exported/133200997/export-c7eabb285e7545c25e709c5a4fef0e34-Parede quarto.res
+res://Interact/Textos.tres::9c09d0a1c9c3348a4f4ca66b0a13b39c::1784509344::res://.godot/exported/133200997/export-a0bcecc12c9ecf12882d75125d046839-Textos.res
+res://Models/Conjunto armário/armário.tscn::fe7a78f95b16a17cb459f67184391b3b::1783292515::res://.godot/exported/133200997/export-1e9bd705100c92d85ebd135ad215f8ce-armário.scn
+res://Models/Conjunto armário/porta_armário.tscn::4e22d09ec5f0be72ec28ea2d8d6c4941::1784066893::res://.godot/exported/133200997/export-786a6c77f4a75726ed05c3be34b56df2-porta_armário.scn
+res://Models/Conjunto armário/vestido.tscn::a629a956ccf6e9dbe1c271b1850bf1aa::1784066893::res://.godot/exported/133200997/export-21f2f1c6e6d79a4e0a0bce999e1a74b7-vestido.scn
+res://Models/Conjunto cama/almofada.tscn::c8cee3de272e2e812691b5942770347b::1783188312::res://.godot/exported/133200997/export-da996502bb388d618354b6089d3a8c71-almofada.scn
+res://Models/Conjunto cama/cama.tscn::a3afbb04380565c65fc5b4feb64c4672::1784509344::res://.godot/exported/133200997/export-e208e0c923c33e4eb6c328d7e2fa91b8-cama.scn
+res://Models/Conjunto cama/chave.tscn::7e2af1f8c31fc1d3230a308a9916a13f::1784066893::res://.godot/exported/133200997/export-db788a7f0b491b916811e68081f33d78-chave.scn
+res://Models/Conjunto criado mudo/criado_mudo.tscn::94de81b57f27335553d7573e4768ee43::1783274673::res://.godot/exported/133200997/export-ebe6815a8bbed7aac95553ebd8e15d95-criado_mudo.scn
+res://Models/Conjunto criado mudo/diário.tscn::5611f745ac2f18fb23579d42f55156b6::1784509344::res://.godot/exported/133200997/export-2ea3c105bfa3df8b3590cb64393070cb-diário.scn
+res://Models/Conjunto criado mudo/gaveta_criado_mudo.tscn::30e4f0996f64fcb20212e63e09f25703::1783297617::res://.godot/exported/133200997/export-51c72619fc45a3be16aa94661f54e84e-gaveta_criado_mudo.scn
+res://Models/Conjunto estante/brincos.tscn::d5ab99e048ce26fdab6c85bb6a44d840::1783291068::res://.godot/exported/133200997/export-9a8a71ba1941a7da2bc0ca313a7636ee-brincos.scn
+res://Models/Conjunto estante/câmera.tscn::1ea2d73c6c45cc94c08a7edae9b5fb64::1783291412::res://.godot/exported/133200997/export-98a25d2588bc8639173f41b5e42abc57-câmera.scn
+res://Models/Conjunto estante/estante.tscn::92decaf5e9c5becfc715738f815529e1::1783285464::res://.godot/exported/133200997/export-82d2aad3af105cb445aae29048e032f9-estante.scn
+res://Models/Conjunto estante/globo.tscn::aa85feb5057546e5d692bd95d0fa7590::1783289099::res://.godot/exported/133200997/export-6ad11a92bae5a9255e91115d504dbf41-globo.scn
+res://Models/Conjunto estante/livro.tscn::781bd9496965567bded1cf9bc04200bd::1783288875::res://.godot/exported/133200997/export-fd57561b88c16b694f89e57406b0c632-livro.scn
+res://Models/Conjunto estante/matriosca.tscn::58d0939a57e4ee4e383d148fcb23789f::1783289412::res://.godot/exported/133200997/export-cc0f0e9df505dc5f5a10a6321af506c4-matriosca.scn
+res://Models/Conjunto estante/máquina_de_escrever.tscn::b81a2e2906c7310f9c6a119e2150e29a::1783292106::res://.godot/exported/133200997/export-e4da9e801e7b5b7a0c5217786e1db21a-máquina_de_escrever.scn
+res://Models/Conjunto estante/perfume.tscn::4a801ceeaf40518e6e508363dd9385e8::1783290173::res://.godot/exported/133200997/export-24318f4e6f620db031910f47af0d4c94-perfume.scn
+res://Models/Conjunto estante/pulseira.tscn::581da0304363ceb53c0aaf1c333d0db0::1783290692::res://.godot/exported/133200997/export-882a4acc0483e9e3ad5f2ded61fa9aaa-pulseira.scn
+res://Models/Conjunto estante/suculenta.tscn::06636237b1c3540971f136a93b8d94d5::1783291696::res://.godot/exported/133200997/export-8576c523f2fd649b72f3582a21ee3c59-suculenta.scn
+res://Models/Conjunto estante/tablet.tscn::f643b8ad3e844195c0f556bc1ab7ef91::1783291185::res://.godot/exported/133200997/export-c2b424211a862be089bff72962fac252-tablet.scn
+res://Models/Conjunto estante/taxi.tscn::23637237ac32934b7583b9ba9707a751::1784066893::res://.godot/exported/133200997/export-a2e815f29d928ada87b4b970bf31c741-taxi.scn
+res://Models/Conjunto estante/tomate.tscn::a62e7d6242c555bc2235d99b521c204a::1783291834::res://.godot/exported/133200997/export-618af0c0a937b17cfa6aebff92ca68be-tomate.scn
+res://Models/Conjunto estante/Vaso.tscn::747f7d04b5522017b9d8105a306b9e7e::1783285647::res://.godot/exported/133200997/export-f3da62f7c481cf53253017e18f606eaa-Vaso.scn
+res://Models/Conjunto móvel/gaveta.tscn::221655ea9947e0a911c9157759139836::1783280102::res://.godot/exported/133200997/export-76a23d70fc0a25852dda64eec181cb54-gaveta.scn
+res://Models/Conjunto móvel/móvel.tscn::190bda2bf466bae57c738452ed35f424::1784509344::res://.godot/exported/133200997/export-1c279231d0aa95507521ced96c7a1ac7-móvel.scn
+res://Models/Conjunto móvel/vaso_pendurado.tscn::402c1dc229e2b9d6de6b130aa7c23491::1784509344::res://.godot/exported/133200997/export-9e7f622535dacde88b4bef64337c42d3-vaso_pendurado.scn
+res://Models/Outros/chinelo.tscn::0df156e12a9f33f6e145cd806c7ee330::1783272594::res://.godot/exported/133200997/export-d982b2e10f88ae3ec6c9a8caea4d739a-chinelo.scn
+res://Models/Outros/janela.tscn::b83ce2c5292ec895057147a388cfd550::1783273099::res://.godot/exported/133200997/export-bde580097ddd4db56bc759861b681106-janela.scn
+res://Models/Outros/porta_2.tscn::98d0723aab525cdf0f077a98eba89070::1784066893::res://.godot/exported/133200997/export-1b9406f217ede33e5ccf3d93f3d663f1-porta_2.scn
+res://Models/Outros/quadro.tscn::fcbaa2a46e5af686b38e5dfb3320754c::1784066893::res://.godot/exported/133200997/export-06f5f435b1246d1da58349309b61042d-quadro.scn
+res://scenes/Cena externa.tscn::2d762ea552777199bde0dbbec6031893::1784509344::res://.godot/exported/133200997/export-4dc5d96e378794eb64af7d5a86d0a020-Cena externa.scn
+res://scenes/cena_principal.tscn::c94f576b0025ed605d27853710e58fae::1784509344::res://.godot/exported/133200997/export-aac376eedb798ca15f7bcdf23342ad45-cena_principal.scn
+res://scenes/parede_com_porta.tscn::3a0da7fc31e10b91553b372d052d5d08::1784509344::res://.godot/exported/133200997/export-d70459ebd54015995cc776a761d7e6f8-parede_com_porta.scn
+res://scenes/Tela inicial.tscn::121fcbe7b7a972c52c4ca5664aa3e97a::1784509344::res://.godot/exported/133200997/export-754c4744f3b8bebaf8037e591e070f42-Tela inicial.scn
+res://scenes/tela_como_jogar_1.tscn::0f8946fafb8138ee1f13ba43fc7a3d4f::1784509344::res://.godot/exported/133200997/export-3f2a630ccec5d24810b4e834da9ade09-tela_como_jogar_1.scn
+res://scenes/tela_como_jogar_2.tscn::0f3eaac200047881cdca3da5c47cefbe::1784509344::res://.godot/exported/133200997/export-555a041fd16ca07e1e6de3b2cee095da-tela_como_jogar_2.scn
+res://scenes/Tela_creditos.tscn::40f0b1e5176ac25f25dc943d2f0b9f34::1784509344::res://.godot/exported/133200997/export-1b68c93dcab2eda206927b198a51f635-Tela_creditos.scn
+res://scenes/Tela_de_objetivo.tscn::d817e646072307097011a04e7d0c22cd::1784509344::res://.godot/exported/133200997/export-4f510330d2848a822bcb0f9b986f5411-Tela_de_objetivo.scn
+res://scenes/tela_final.tscn::2f916991432086511814803f22e124e4::1784509344::res://.godot/exported/133200997/export-70fe7749d1dc4a41c75e7a571675a9cb-tela_final.scn
