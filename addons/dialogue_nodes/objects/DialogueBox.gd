@@ -246,11 +246,14 @@ func _process(delta) -> void:
 
 
 func _input(event) -> void:
-	if is_running() and Input.is_action_just_pressed(skip_input_action):
-		if _wait_effect and not _wait_effect.skip:
-			_wait_effect.skip = true
-			await get_tree().process_frame
-			_on_wait_finished()
+	if is_running():
+		if Input.is_action_just_pressed(skip_input_action) or Input.is_action_just_pressed("interact"):
+			if _wait_effect and not _wait_effect.skip:
+				_wait_effect.skip = true
+				await get_tree().process_frame
+				_on_wait_finished()
+			elif options_container.visible:
+				select_option(0)
 
 
 ## Starts processing the dialogue [member data], starting with the Start Node with its ID set to [param start_id].

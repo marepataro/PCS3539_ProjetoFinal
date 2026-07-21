@@ -677,6 +677,7 @@ can_jump = false
 script = ExtResource("4_m1hkd")
 
 [node name="DialogueBox" type="Panel" parent="CanvasLayer" unique_id=1696492300]
+visible = false
 self_modulate = Color(6.303029, 4.086723, 3.4451604, 1)
 anchors_preset = 12
 anchor_top = 1.0

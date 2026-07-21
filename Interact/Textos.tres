@@ -32,7 +32,7 @@ nodes = {
 },
 &"0_4": {
 "link": &"1_5",
-"offset": Vector2(-60, 1120),
+"offset": Vector2(-180, 1140),
 "start_id": "PERFUME"
 },
 &"0_5": {
@@ -57,7 +57,7 @@ nodes = {
 },
 &"1_1": {
 "dialogue": "Ninguém agua essa planta faz muito tempo… 
-(espaço)",
+",
 "offset": Vector2(220, 100),
 "options": {
 0: {
@@ -66,12 +66,12 @@ nodes = {
 "text": ""
 }
 },
-"size": Vector2(440, 325.99988),
+"size": Vector2(439.9994, 442),
 "speaker": ""
 },
 &"1_10": {
 "dialogue": "Uma pena que as coisas tenham terminado daquela forma naquela estrada... Uma pena que ela tenha batido o carro.
-(espaço)",
+",
 "offset": Vector2(700, 2120),
 "options": {
 0: {
@@ -80,11 +80,11 @@ nodes = {
 "text": ""
 }
 },
-"size": Vector2(300.00018, 285.99988),
+"size": Vector2(300.00098, 442.00146),
 "speaker": ""
 },
 &"1_11": {
-"dialogue": "Minha mãe sempre falava pra não mexer no diário dos outros… (espaço)",
+"dialogue": "Minha mãe sempre falava pra não mexer no diário dos outros… ",
 "offset": Vector2(240, 2460),
 "options": {
 0: {
@@ -93,12 +93,12 @@ nodes = {
 "text": ""
 }
 },
-"size": Vector2(420, 286),
+"size": Vector2(419.99945, 441.99646),
 "speaker": ""
 },
 &"1_2": {
 "dialogue": "Um enorme mapa na parede, cheio de alfinetes vermelhos marcando os lugares que ela ainda queria conhecer. 
-(espaço)",
+",
 "offset": Vector2(240, 480),
 "options": {
 0: {
@@ -107,12 +107,11 @@ nodes = {
 "text": ""
 }
 },
-"size": Vector2(420.00012, 286.00024),
+"size": Vector2(419.99945, 442.00073),
 "speaker": ""
 },
 &"1_3": {
 "dialogue": " O alfinete mais recente está cravado bem em cima de uma rota de estrada... uma viagem que ela nunca chegou a fazer. 
-(espaço)
 ",
 "offset": Vector2(700, 480),
 "options": {
@@ -122,12 +121,12 @@ nodes = {
 "text": ""
 }
 },
-"size": Vector2(300.00018, 286.00024),
+"size": Vector2(300.00098, 442.00073),
 "speaker": ""
 },
 &"1_4": {
 "dialogue": "Uma boneca dentro da outra, que gracinha. 
-(espaço)",
+",
 "offset": Vector2(240, 820),
 "options": {
 0: {
@@ -136,13 +135,13 @@ nodes = {
 "text": ""
 }
 },
-"size": Vector2(420.00012, 286.00006),
+"size": Vector2(419.99945, 442),
 "speaker": ""
 },
 &"1_5": {
 "dialogue": "O borrifador ainda guarda o aroma de jasmim. Fecho os olhos e, por um segundo, ela está aqui. 
-(espaço)",
-"offset": Vector2(240, 1120),
+",
+"offset": Vector2(240, 1240),
 "options": {
 0: {
 "condition": Array[Dictionary]([]),
@@ -150,12 +149,12 @@ nodes = {
 "text": ""
 }
 },
-"size": Vector2(419.99988, 286),
+"size": Vector2(419.9992, 441.9995),
 "speaker": ""
 },
 &"1_6": {
 "dialogue": "Ela adorava ler e escrever, e o grande sonho dela era publicar um livro autoral.
-(espaço)",
+",
 "offset": Vector2(240, 1440),
 "options": {
 0: {
@@ -164,13 +163,13 @@ nodes = {
 "text": ""
 }
 },
-"size": Vector2(419.99988, 285.99994),
+"size": Vector2(419.9992, 441.9995),
 "speaker": ""
 },
 &"1_7": {
 "dialogue": "A folha ainda está no rolo, mas a história parou na metade do capítulo. 
-(espaço)",
-"offset": Vector2(700, 1440),
+",
+"offset": Vector2(1000, 1440),
 "options": {
 0: {
 "condition": Array[Dictionary]([]),
@@ -178,12 +177,12 @@ nodes = {
 "text": ""
 }
 },
-"size": Vector2(300.00018, 285.99994),
+"size": Vector2(300.0019, 441.9995),
 "speaker": ""
 },
 &"1_8": {
 "dialogue": "Ah, esse era o vestido favorito dela. Ela sempre o usava no aniversário dela. Olhando para ele agora, pendurado no cabide, algo parece estranho… 
-(espaço)",
+",
 "offset": Vector2(240, 1780),
 "options": {
 0: {
@@ -192,7 +191,7 @@ nodes = {
 "text": ""
 }
 },
-"size": Vector2(420.00012, 286),
+"size": Vector2(419.99945, 442.00085),
 "speaker": ""
 },
 &"1_9": {
@@ -206,7 +205,7 @@ nodes = {
 "text": ""
 }
 },
-"size": Vector2(420.00012, 285.99988),
+"size": Vector2(419.99945, 442.00146),
 "speaker": ""
 }
 }

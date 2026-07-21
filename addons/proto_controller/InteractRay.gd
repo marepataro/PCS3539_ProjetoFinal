@@ -1,6 +1,7 @@
 extends RayCast3D
 
 @onready var prompt = $Prompt
+var dialogue_active := false
 
 func _ready():
 	add_exception(owner)
@@ -8,6 +9,8 @@ func _ready():
 
 func _physics_process(_delta):
 	prompt.text = ""
+	if dialogue_active:
+		return
 	if is_colliding():
 		var detected = get_collider()
 		if detected is Interactable:
