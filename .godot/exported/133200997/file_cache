@@ -18,7 +18,7 @@ res://addons/dialogue_nodes/Editor.tscn::7f1232ea77a8921325762b8299aeab6c::17820
 res://addons/proto_controller/proto_controller.tscn::9a76593b793be461cc34d1fa2bd7770e::1784509344::res://.godot/exported/133200997/export-0a12e7b670baa788c9fd3506d9d312e2-proto_controller.scn
 res://assets/Cor teto.tres::30d3d5383bf28662ad44de08b557344f::1784509344::res://.godot/exported/133200997/export-8b73341bafeda36dcda03e97465808b3-Cor teto.res
 res://assets/Parede quarto.tres::137bdcda481a50a6e8118fd5f666ef16::1784509344::res://.godot/exported/133200997/export-c7eabb285e7545c25e709c5a4fef0e34-Parede quarto.res
-res://Interact/Textos.tres::9c09d0a1c9c3348a4f4ca66b0a13b39c::1784509344::res://.godot/exported/133200997/export-a0bcecc12c9ecf12882d75125d046839-Textos.res
+res://Interact/Textos.tres::3c226d01940953fef9996dc83c4a1b66::1784592424::res://.godot/exported/133200997/export-a0bcecc12c9ecf12882d75125d046839-Textos.res
 res://Models/Conjunto armário/armário.tscn::fe7a78f95b16a17cb459f67184391b3b::1783292515::res://.godot/exported/133200997/export-1e9bd705100c92d85ebd135ad215f8ce-armário.scn
 res://Models/Conjunto armário/porta_armário.tscn::4e22d09ec5f0be72ec28ea2d8d6c4941::1784066893::res://.godot/exported/133200997/export-786a6c77f4a75726ed05c3be34b56df2-porta_armário.scn
 res://Models/Conjunto armário/vestido.tscn::a629a956ccf6e9dbe1c271b1850bf1aa::1784066893::res://.godot/exported/133200997/export-21f2f1c6e6d79a4e0a0bce999e1a74b7-vestido.scn
@@ -50,11 +50,11 @@ res://Models/Outros/janela.tscn::b83ce2c5292ec895057147a388cfd550::1783273099::r
 res://Models/Outros/porta_2.tscn::98d0723aab525cdf0f077a98eba89070::1784066893::res://.godot/exported/133200997/export-1b9406f217ede33e5ccf3d93f3d663f1-porta_2.scn
 res://Models/Outros/quadro.tscn::fcbaa2a46e5af686b38e5dfb3320754c::1784066893::res://.godot/exported/133200997/export-06f5f435b1246d1da58349309b61042d-quadro.scn
 res://scenes/Cena externa.tscn::2d762ea552777199bde0dbbec6031893::1784509344::res://.godot/exported/133200997/export-4dc5d96e378794eb64af7d5a86d0a020-Cena externa.scn
-res://scenes/cena_principal.tscn::c94f576b0025ed605d27853710e58fae::1784509344::res://.godot/exported/133200997/export-aac376eedb798ca15f7bcdf23342ad45-cena_principal.scn
+res://scenes/cena_principal.tscn::2eb1c7e36b6fb76393fdc91734309c76::1784591747::res://.godot/exported/133200997/export-aac376eedb798ca15f7bcdf23342ad45-cena_principal.scn
 res://scenes/parede_com_porta.tscn::3a0da7fc31e10b91553b372d052d5d08::1784509344::res://.godot/exported/133200997/export-d70459ebd54015995cc776a761d7e6f8-parede_com_porta.scn
 res://scenes/Tela inicial.tscn::121fcbe7b7a972c52c4ca5664aa3e97a::1784509344::res://.godot/exported/133200997/export-754c4744f3b8bebaf8037e591e070f42-Tela inicial.scn
 res://scenes/tela_como_jogar_1.tscn::0f8946fafb8138ee1f13ba43fc7a3d4f::1784509344::res://.godot/exported/133200997/export-3f2a630ccec5d24810b4e834da9ade09-tela_como_jogar_1.scn
 res://scenes/tela_como_jogar_2.tscn::0f3eaac200047881cdca3da5c47cefbe::1784509344::res://.godot/exported/133200997/export-555a041fd16ca07e1e6de3b2cee095da-tela_como_jogar_2.scn
 res://scenes/Tela_creditos.tscn::40f0b1e5176ac25f25dc943d2f0b9f34::1784509344::res://.godot/exported/133200997/export-1b68c93dcab2eda206927b198a51f635-Tela_creditos.scn
-res://scenes/Tela_de_objetivo.tscn::d817e646072307097011a04e7d0c22cd::1784509344::res://.godot/exported/133200997/export-4f510330d2848a822bcb0f9b986f5411-Tela_de_objetivo.scn
+res://scenes/Tela_de_objetivo.tscn::39200d0d2def328895cedd940b2a90fa::1784677081::res://.godot/exported/133200997/export-4f510330d2848a822bcb0f9b986f5411-Tela_de_objetivo.scn
 res://scenes/tela_final.tscn::2f916991432086511814803f22e124e4::1784509344::res://.godot/exported/133200997/export-70fe7749d1dc4a41c75e7a571675a9cb-tela_final.scn

@@ -1,5 +1,5 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1784673701
+::res://::1784678354
 export_presets.cfg::TextFile::-1::1784590740::0::1::::<><><>0<>0<><>::
 icon.svg::CompressedTexture2D::7081393343536532460::1781751307::1784589434::1::::<><><>0<>0<>c01b6b2a83ce2b16dbc2d1c633949e60<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 README.md::TextFile::-1::1784590800::0::1::::<><><>0<>0<><>::
@@ -187,7 +187,7 @@ janela.tscn::PackedScene::7897173469051947164::1783273099::0::1::::<><><>0<>0<><
 porta.glb::PackedScene::6330087745887951279::1783469616::1784589434::1::::<><><>0<>0<>b888c7cb884f9a202421ebd25323de19<>res://.godot/imported/porta.glb-2aba048b72d7adcb763c4171d60e9361.scn::
 porta_2.tscn::PackedScene::4472804587058975208::1784066893::0::1::::<><><>0<>0<><>::
 quadro.tscn::PackedScene::7034481030864865823::1784066893::0::1::::<><><>0<>0<><>::uid://c0g4emn4grxng::::res://Models/Arquivos do quarto - blender/Mapa-mundi_mapa-mundi.png
-::res://scenes/::1784668780
+::res://scenes/::1784677081
 Animação almofada.gd::GDScript::7384324181444694466::1784066893::0::1::::<>CSGCombiner3D<><>0<>0<><>::
 Animação armário.gd::GDScript::3623222208325392404::1784066893::0::1::::<>CSGCombiner3D<><>0<>0<><>::
 Animação porta.gd::GDScript::4515439935833140536::1784066893::0::1::::<>CSGCombiner3D<><>0<>0<><>::
@@ -202,7 +202,7 @@ tela_como_jogar_2.gd::GDScript::6761154752153553333::1784509344::0::1::::<>Node2
 tela_como_jogar_2.tscn::PackedScene::2415691695024709880::1784509344::0::1::::<><><>0<>0<><>::uid://c3lfh38j864vp::::res://scenes/tela_como_jogar_2.gd<>uid://cf4xf8flnsn8g::::res://assets/Tela como jogar 2.png<>uid://52t3tsejcctm::::res://assets/Botão continuar.png
 tela_creditos.gd::GDScript::725095263936762740::1784509344::0::1::::<>Node2D<><>0<>0<><>::
 Tela_creditos.tscn::PackedScene::2514731202474020806::1784509344::0::1::::<><><>0<>0<><>::uid://dmt3sgb31t2e8::::res://assets/Tela créditos.png<>uid://klihikc2nghw::::res://scenes/tela_creditos.gd<>uid://52t3tsejcctm::::res://assets/Botão continuar.png
-tela_de_objetivo.gd::GDScript::9220478187271250584::1784668535::0::1::::<>Node2D<><>0<>0<><>::
-Tela_de_objetivo.tscn::PackedScene::6775300819300930301::1784668780::0::1::::<><><>0<>0<><>::uid://d4mp6tqkrd0ci::::res://scenes/tela_de_objetivo.gd<>uid://dp324uamcw5tx::::res://assets/Tela objetivo.png<>uid://cfujo121kdmwh::::res://assets/Tela objetivo vazio.png<>uid://dte7fvaq4j2tn::::res://assets/Botão ache a chave do carro.png<>uid://chxfc5ghl1svw::::res://assets/spinners-svg-spinners-90-ring (1).svg
+tela_de_objetivo.gd::GDScript::9220478187271250584::1784673791::0::1::::<>Node2D<><>0<>0<><>::
+Tela_de_objetivo.tscn::PackedScene::6775300819300930301::1784677081::0::1::::<><><>0<>0<><>::uid://d4mp6tqkrd0ci::::res://scenes/tela_de_objetivo.gd<>uid://dp324uamcw5tx::::res://assets/Tela objetivo.png<>uid://cfujo121kdmwh::::res://assets/Tela objetivo vazio.png<>uid://dte7fvaq4j2tn::::res://assets/Botão ache a chave do carro.png<>uid://chxfc5ghl1svw::::res://assets/spinners-svg-spinners-90-ring (1).svg
 tela_final.tscn::PackedScene::1369390454170473279::1784509344::0::1::::<><><>0<>0<><>::
-Tela_inicial.gd::GDScript::8721987484520298354::1784668228::0::1::::<>Node2D<><>0<>0<><>::
+Tela_inicial.gd::GDScript::8721987484520298354::1784673716::0::1::::<>Node2D<><>0<>0<><>::
